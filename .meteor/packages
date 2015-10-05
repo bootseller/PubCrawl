@@ -7,3 +7,8 @@
 meteor-platform
 autopublish
 insecure
+aldeed:collection2
+iron:router
+twbs:bootstrap
+accounts-password
+ian:accounts-ui-bootstrap-3
